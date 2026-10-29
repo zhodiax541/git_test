@@ -1,2 +1,2 @@
-# gi_test
+# git_test
 git test for new device
